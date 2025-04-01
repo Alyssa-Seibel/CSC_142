@@ -1,6 +1,6 @@
 /*
 potion.cpp
-- In this file 
+- In this file you are asked how many potions you want to buy. Then it calculates the price and how much gold you will have left over
 - 4/1/25
 */
 #include <iostream>
